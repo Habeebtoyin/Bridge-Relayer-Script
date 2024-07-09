@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "devDependencies": {
     "dotenv": "^16.4.5",
     "ethers": "^6.13.1",
+    "typescript": "^5.5.3",
     "winston": "^3.13.0"
   }
 }
